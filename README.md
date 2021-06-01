@@ -14,5 +14,7 @@ If you are using anaconda, chances are that matplotlib is already installed in y
 1. Easy to interpret the trends over time and also helps to extrapolate the data.
 2. A-line break can also depict the presence of missing data.
 3. We can also estimate the correlation value by seeing the steepness in the line.
-**Disadvantages:**
+
+
+**Disadvantages :**
 1. Though line charts are easy to interpret but plotting two line charts over the same figure can make it difficult to compare the results.
