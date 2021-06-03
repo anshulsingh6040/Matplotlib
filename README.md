@@ -18,3 +18,13 @@ If you are using anaconda, chances are that matplotlib is already installed in y
 
 **Disadvantages :**
 1. Though line charts are easy to interpret but plotting two line charts over the same figure can make it difficult to compare the results.
+
+
+# Histograms
+
+To create a histogram, you need a continuous variable. Seldom histograms are used for discrete variables as well. Histograms are univariate i.e one requires only one variable to plot a histogram.
+
+A histogram is a bar plot where the axis representing the data variable is divided into a set of discrete bins and the count of observations falling within each bin is shown using the height of the corresponding bar. Histograms are also known as frequency distribution plots and it is a very common practice to use histograms to check the distribution of the feature or if the data is positively skewed or negatively skewed.
+
+**DRAWBACKS:**
+* Histograms are bin biased. You can change the number of bins in a histogram, but there is no optimal number of bins. Sometimes we use fewer bins and sometimes more, we cannot simply rely on the default bins on whichever software we wish to use to create a histogram.
