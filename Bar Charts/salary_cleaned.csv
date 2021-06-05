@@ -1,0 +1,328 @@
+age,experience,salary,workclass,occupation
+23,1,31577.01,Private,executive manager
+33,10,34000.0,Self Employed,craftsmen
+54,13,37890.69,Self Employed,sales
+48,10,25541.66,Private,technical support
+35,12,28454.01,Self Employed,executive manager
+28,4,30000.0,Private,administration
+42,15,24219.99,Self Employed,frontend developer
+40,14,100000.42,Private,professor
+47,10,42750.78,Private,sales
+22,0,37003.99,Private,executive manager
+30,6,40800.0,Private,executive manager
+28,9,26744.05,Private,technical support
+23,1,379516.67,Government,others
+51,5,16252.92,Self Employed,craftsmen
+22,0,13749.99,Private,backend developer
+27,5,14736.005,Self Employed,transportation
+35,9,45500.01,Private,sales
+46,9,13200.0,Private,machine operator
+37,10,13200.0,Private,machine operator
+24,2,34440.0,Private,others
+37,9,11250.0,Self Employed,others
+53,10,238719.25,Private,professor
+27,9,23417.13,Private,sales
+38,10,55502.5,Private,craftsmen
+53,10,15921.84,Private,full stack developer
+34,10,47000.437676,Private,craftsmen
+23,9,22500.0,Private,sales
+43,14,222500.01,Private,professor
+53,9,727.9641935,Self Employed,executive manager
+31,9,9375.0,Self Employed,others
+21,0,15250.0,Private,others
+23,0,22500.0,Private,sales
+25,2,3358.33,Private,transportation
+42,3,15102.75,Private,machine operator
+38,10,55577.01,Private,administration
+34,9,125000.1,Government,others
+32,9,34980.0,Private,machine operator
+37,9,65775.51,Private,machine learning expert
+51,14,94110.1825,Private,executive manager
+22,0,20000.0,Private,sales
+33,15,37625.005,Private,others
+42,9,42000.0,Private,frontend developer
+19,10,3528.52,Self Employed,others
+51,14,232560.0,Government,others
+23,1,23499.99,Private,administration
+37,9,43749.99,Private,frontend developer
+47,14,1702.4,Private,professor
+33,9,39999.99,Private,craftsmen
+31,13,15000.0,Private,sales
+31,12,41375.01,Private,others
+35,9,25280.78,Private,machine operator
+38,9,62000.5,Self Employed,executive manager
+18,2,6098.0,Private,others
+20,9,10605.0,Private,machine operator
+54,10,9248.653333,Government,others
+40,10,16859.0,Private,clerk
+43,10,30000.0,Private,others
+44,10,57883.75,Self Employed,machine learning expert
+44,9,55493.5,Government,backend developer
+43,14,25912.74,Private,executive manager
+51,12,62284.72,Private,technical support
+18,9,8499.99,Private,others
+51,10,29967.75,Private,executive manager
+41,6,41109.75,Private,backend developer
+44,10,23750.01,Self Employed,sales
+33,6,9689.75,Government,others
+33,13,20520.0,Self Employed,full stack developer
+42,12,39794.25,Private,executive manager
+25,3,21970.0,Private,sales
+32,9,31854.01,Private,administration
+32,13,30771.49,Private,backend developer
+36,6,125470.49667,Private,professor
+28,9,22639.26,Private,others
+20,9,18849.61,Private,technical support
+35,10,33750.0,Self Employed,sales
+55,9,72647.71587,Self Employed,machine learning expert
+48,13,33938.25,Private,executive manager
+36,11,22584.48,Self Employed,others
+34,9,22283.01,Private,craftsmen
+28,13,16861.245,Private,technical support
+37,9,45832.255,Private,craftsmen
+44,9,49912.0,Private,transportation
+25,1,17499.99,Private,sales
+40,14,264220.74,Government,others
+34,9,23704.5,Private,backend developer
+49,9,95508.57143,Private,others
+22,12,3333.33,Private,clerk
+23,9,18416.67,Government,clerk
+56,17,259390.74,Self Employed,others
+45,9,56932.69105,Private,others
+29,4,27606.635,Private,technical support
+41,9,27770.77,Private,craftsmen
+47,9,77164.724,Private,administration
+44,9,68104.49,Private,sales
+41,11,82102.75,Private,administration
+50,9,41001.72,Self Employed,others
+47,9,25523.89,Private,clerk
+35,9,175000.01,Private,executive manager
+56,9,238679.22,Private,professor
+45,14,136680.0,Private,professor
+48,13,134662.61,Government,others
+20,0,3314.14,Private,others
+38,9,120293.58,Government,professor
+23,0,69850.02,Government,others
+31,9,19850.02,Private,machine learning expert
+58,13,82200.0,Private,administration
+24,0,22200.0,Private,full stack developer
+39,9,60662.66,Self Employed,executive manager
+26,10,108447.1,Private,sales
+51,9,30519.99,Private,machine operator
+34,11,100980.01,Private,transportation
+42,10,600445.61,Private,backend developer
+38,14,97614.82,Private,frontend developer
+48,4,97541.5,Private,others
+33,11,86900.0,Private,technical support
+51,9,95285.59,Self Employed,others
+22,0,15000.46,Private,craftsmen
+19,3,93916.97,Self Employed,others
+41,10,73840.01,Private,technical support
+48,14,93699.26,Government,professor
+46,12,253114.0,Private,administration
+43,13,130000.0,Private,professor
+58,9,34547.25,Private,craftsmen
+43,9,60000.0,Self Employed,sales
+37,10,55585.12,Self Employed,frontend developer
+21,2,5500.0,Government,clerk
+52,14,180000.0,Government,administration
+34,11,20579.68,Private,craftsmen
+28,4,35000.0,Private,backend developer
+34,9,11874.99,Private,transportation
+29,5,3916.67,Private,machine operator
+39,9,212082.0,Private,professor
+49,7,10000.0,Private,machine operator
+35,10,30000.0,Private,craftsmen
+31,6,60000.0,Private,full stack developer
+22,0,20000.0,Private,frontend developer
+43,13,45000.0,Private,sales
+21,0,12075.0,Private,administration
+23,1,28000.0,Private,backend developer
+58,7,8000.01,Private,clerk
+36,10,80000.0,Private,professor
+38,9,55000.0,Private,machine operator
+19,2,3500.0,Private,clerk
+38,11,38746.75,Private,technical support
+26,3,38000.0,Private,professor
+38,12,51647.58,Private,administration
+26,4,31734.46,Private,craftsmen
+40,9,112500.01,Private,executive manager
+25,3,26249.99,Private,technical support
+41,13,150000.0,Private,full stack developer
+33,9,65905.01,Private,sales
+29,2,86087.36,Government,others
+51,14,200000.0,Private,professor
+34,9,30999.99,Private,sales
+33,8,35577.38,Private,sales
+25,6,16460.24,Private,clerk
+30,9,55000.32,Self Employed,backend developer
+20,0,18500.0,Private,administration
+47,9,55775.51,Private,executive manager
+26,3,37916.68,Private,frontend developer
+31,2,90000.0,Government,others
+36,9,100000.0,Private,full stack developer
+60,26,25833.34,Private,others
+28,5,20000.0,Private,professor
+23,1,25000.0,Private,backend developer
+42,13,112500.01,Private,full stack developer
+34,7,34000.0,Private,machine operator
+35,9,45000.99,Private,others
+22,1,22000.0,Private,administration
+54,19,220041.66,Private,craftsmen
+36,13,117907.17,Private,frontend developer
+55,15,65000.0,Private,transportation
+47,14,140000.0,Private,administration
+52,12,50000.0,Private,transportation
+24,2,31000.0,Private,backend developer
+35,8,59500.01,Government,machine learning expert
+51,27,39750.0,Self Employed,sales
+34,9,165322.91,Private,professor
+27,3,36611.12,Private,administration
+51,15,550000.0,Government,others
+46,16,300500.83,Self Employed,professor
+25,1,70000.01,Government,others
+22,0,30000.8,Private,full stack developer
+37,9,35933.33,Private,craftsmen
+48,13,60500.0,Private,sales
+40,18,42132.45,Private,transportation
+58,29,63874.1075,Self Employed,executive manager
+50,28,459450.0,Private,others
+18,0,5833.34,Private,others
+27,6,9120.83,Private,machine operator
+24,2,32331.2,Private,frontend developer
+38,9,65000.0,Self Employed,craftsmen
+40,12,71435.2,Self Employed,professor
+41,9,215621.0,Private,executive manager
+32,7,55000.0,Private,machine learning expert
+30,6,40036.43,Private,frontend developer
+28,4,32102.75,Private,sales
+31,3,51000.0,Government,others
+21,0,17999.99,Private,frontend developer
+33,4,117217.24,Government,others
+44,14,257396.06,Government,professor
+22,1,22466.625,Private,full stack developer
+42,14,43337.82,Private,others
+36,12,72447.27,Private,craftsmen
+31,9,40064.76,Private,transportation
+21,0,13125.0,Private,others
+34,9,66250.01,Self Employed,backend developer
+21,0,23444.0,Private,backend developer
+55,15,72746.5,Self Employed,others
+29,5,74166.67,Private,full stack developer
+26,4,35000.01,Private,sales
+54,9,74291.67,Self Employed,others
+34,11,171082.99,Private,professor
+41,9,36249.99,Private,others
+23,1,27872.75,Private,frontend developer
+24,0,34514.26,Private,machine operator
+21,1,10573.42,Private,clerk
+44,13,122615.35,Government,others
+47,13,61443.51,Self Employed,sales
+31,10,49635.0,Private,craftsmen
+53,9,50842.5,Self Employed,craftsmen
+44,14,151500.01,Private,full stack developer
+37,9,122250.0,Private,others
+28,7,38811.25,Private,craftsmen
+25,0,71000.01,Government,frontend developer
+25,3,25000.0,Self Employed,others
+28,4,42000.0,Private,executive manager
+26,3,27000.0,Private,others
+32,7,22000.0,Private,machine operator
+37,10,90000.0,Private,professor
+34,9,78000.0,Private,others
+28,6,33000.0,Private,administration
+45,14,190000.0,Government,professor
+35,9,112200.0,Government,professor
+29,10,11220.0,Private,craftsmen
+45,16,110662.66,Private,professor
+38,15,108447.1,Self Employed,professor
+52,13,103019.0,Private,others
+32,14,100980.01,Private,executive manager
+46,16,35044.0,Self Employed,others
+46,15,45614.0,Private,frontend developer
+45,14,27541.5,Private,transportation
+57,14,96900.0,Private,executive manager
+22,1,25285.59,Private,backend developer
+34,13,43430.46,Private,sales
+37,13,93916.97,Private,executive manager
+29,7,23000.0,Private,sales
+32,9,33699.26,Private,sales
+51,10,90879.98,Private,full stack developer
+56,9,89236.8,Government,professor
+21,1,39236.8,Private,full stack developer
+33,8,36236.8,Private,backend developer
+49,10,29236.8,Private,others
+37,6,32236.8,Self Employed,transportation
+38,11,86733.71,Private,professor
+23,10,36700.02,Private,full stack developer
+59,18,86700.02,Government,administration
+52,15,86541.04,Private,professor
+45,13,86351.16,Private,executive manager
+51,15,86084.38,Government,administration
+43,16,76067.15,Government,professor
+31,9,45886.86,Private,sales
+51,15,84150.0,Government,executive manager
+37,16,44100.89,Self Employed,frontend developer
+48,14,84015.9,Private,machine learning expert
+44,13,83606.81,Private,administration
+43,14,53196.98,Private,backend developer
+32,10,33183.69,Private,clerk
+43,14,80113.56,Private,machine learning expert
+34,9,68795.0,Private,machine learning expert
+48,13,5506.44,Private,sales
+27,9,28294.11,Private,sales
+45,9,48020.36,Self Employed,backend developer
+68,10,77578.32,Private,professor
+57,10,77518.96,Government,administration
+40,11,76961.33,Self Employed,machine learning expert
+50,9,46504.0,Private,others
+51,11,75678.91,Government,technical support
+42,10,54889.17,Private,executive manager
+39,14,44828.83,Private,sales
+32,13,44769.2,Private,backend developer
+39,10,34496.72,Private,craftsmen
+40,10,42606.33,Government,clerk
+38,13,42430.84,Private,sales
+33,11,31708.52,Private,others
+43,12,32666.25,Private,craftsmen
+25,3,33634.89,Self Employed,full stack developer
+44,10,29616.27,Private,clerk
+22,1,25409.58,Private,sales
+41,15,51400.01,Private,professor
+34,11,41400.01,Self Employed,backend developer
+37,14,71400.01,Private,professor
+25,2,30396.58,Self Employed,frontend developer
+39,13,40146.48,Self Employed,sales
+42,10,69959.68,Private,professor
+21,0,21794.54,Private,sales
+28,4,39709.56,Self Employed,executive manager
+41,10,69643.41,Government,professor
+23,1,33000.0,Private,full stack developer
+49,14,69375.55,Private,administration
+42,13,69359.99,Private,executive manager
+41,11,59155.24,Private,machine learning expert
+46,14,39097.54,Private,sales
+40,14,38799.02,Private,executive manager
+32,13,38559.48,Private,frontend developer
+41,10,38059.1,Private,machine operator
+24,1,33000.0,Private,backend developer
+31,7,37388.11,Private,backend developer
+27,4,27228.2,Private,others
+37,13,46995.8,Self Employed,machine learning expert
+44,13,46681.43,Private,executive manager
+39,15,50448.69,Self Employed,professor
+43,15,46406.48,Government,clerk
+21,0,36318.8,Private,executive manager
+44,14,66317.72,Self Employed,machine learning expert
+39,15,46300.0,Private,craftsmen
+46,13,45114.63,Self Employed,sales
+39,10,45976.37,Private,others
+26,3,35920.8,Private,backend developer
+31,9,25901.3,Private,others
+46,13,65858.42,Private,administration
+46,15,45751.4,Self Employed,professor
+39,11,65418.14,Private,machine learning expert
+39,15,64803.9,Private,sales
+59,16,64739.22,Private,professor
+50,15,62120.0,Self Employed,machine learning expert
+46,16,71000.0,Private,professor
