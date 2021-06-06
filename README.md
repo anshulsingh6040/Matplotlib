@@ -28,3 +28,17 @@ A histogram is a bar plot where the axis representing the data variable is divid
 
 **DRAWBACKS:**
 * Histograms are bin biased. You can change the number of bins in a histogram, but there is no optimal number of bins. Sometimes we use fewer bins and sometimes more, we cannot simply rely on the default bins on whichever software we wish to use to create a histogram.
+
+
+# Bar Charts
+
+* Bar plots are used to visualize a continuous variable versus a categorical variable. They provide a great way to visualize the magnitudes of a quantitative variable in terms of a qualitative variable.Depending on the software we used to create a bar plot, the height of the bars can show either the maximum value or the average value of the quantitative variable.
+
+**ADVANTAGES:**
+1. Summarize a large amount of data in a very interpretable way.
+2. Easily readable by a large amount of audience.
+3. Easy to display the contribution for multiple categories
+
+**DISADVANTAGES:**
+1. Sometimes need some extra explanation.
+2. Fails to show the assumptions behind the data.
