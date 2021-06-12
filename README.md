@@ -42,3 +42,19 @@ A histogram is a bar plot where the axis representing the data variable is divid
 **DISADVANTAGES:**
 1. Sometimes need some extra explanation.
 2. Fails to show the assumptions behind the data.
+
+
+# Scatter Plots
+
+Another way of converting your continuous variables to charts is to scatter plots. Scatter plots require two continuous variables in order to plot them and hence they are bivariate.
+
+Scatter plots are also very common in practice when it comes to identifying if there exists a relationship between variables or not. They can also depict if two continuous variables have a positive correlation, negative correlation, or no correlation.
+
+**ADVANTAGES:**
+1. Highlights correlation
+2. Often depicts minimum, maximum, and outliers in the data.
+3. Shows if there is a trend in the data.
+
+**DISADVANTAGES :**
+1. Only applicable to continuous variables.
+2. Sometimes the results are inconclusive.
