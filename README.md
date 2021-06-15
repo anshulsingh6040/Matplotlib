@@ -58,3 +58,11 @@ Scatter plots are also very common in practice when it comes to identifying if t
 **DISADVANTAGES :**
 1. Only applicable to continuous variables.
 2. Sometimes the results are inconclusive.
+
+
+# Pie Charts & Doughnut Charts
+
+Pie charts are nothing but a big circle. They are really easy to interpret and represent a circle that is sliced into pieces (like a pizza) based on some categories. The pie chart as a whole shows 100% data but individual slices show their own contribution to the data.
+
+
+Doughnut Charts are basically the same as Pie Charts, with just a hole in the middle. It is often viewed as a modification to pie charts. Doughnut charts, on the other hand, eliminates the need to compare the size or area of the slice and shifts the focus on the length of the arc, which in turn is easy to measure.
