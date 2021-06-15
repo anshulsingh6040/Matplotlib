@@ -66,3 +66,14 @@ Pie charts are nothing but a big circle. They are really easy to interpret and r
 
 
 Doughnut Charts are basically the same as Pie Charts, with just a hole in the middle. It is often viewed as a modification to pie charts. Doughnut charts, on the other hand, eliminates the need to compare the size or area of the slice and shifts the focus on the length of the arc, which in turn is easy to measure.
+
+Both Doughnut Charts and Pie charts share the same advantages and disadvantages. 
+
+ADVANTAGES :
+1. Easy to interpret and widely used.
+2. It visualizes data as a fractional part of the whole and which leads to effective communication.
+3. Data comparison is very easily done at a glance.
+
+DISADVANTAGES:
+1. Becomes hard to interpret and read if data contains too many slices or categories.
+2. Pie charts only represent one series of data and hence we need to draw more than one in order to compare two or more series of data.
