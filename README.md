@@ -2,7 +2,8 @@
 In this repository you can find code and snippets related to matplotlib. 
 
 # What is matplotlib in python?
-Matplotlib is a data visualization library/package in python and we can create and customise graphs like line charts, bar grapgs, scatter plots, pie charts, area plots, bubble plots etc. Matplotlib also provides functionalities to save those graphs as png or jpeg format.
+Matplotlib is the primary library for generating graphs in Python. Most other graphing libraries are wrappers around matplotlib. The matplotlib library is not part of the standard Python library, but it is installed automatically when you install a scientific Python platform such as Anaconda. 
+Data visualization is one of the key ingredients of data science or data analysis.
 
 # How to install matplotlib ?
 If you are using anaconda, chances are that matplotlib is already installed in your environment. If not, we can install matplotlib with pip install matplotlib
