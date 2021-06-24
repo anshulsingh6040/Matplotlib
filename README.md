@@ -77,3 +77,8 @@ ADVANTAGES :
 DISADVANTAGES:
 1. Becomes hard to interpret and read if data contains too many slices or categories.
 2. Pie charts only represent one series of data and hence we need to draw more than one in order to compare two or more series of data.
+
+
+# Stack Plots
+
+The idea of stack plots is to show “parts to a whole” over time; basically, it's like a pie-chart, only over time. Stack plots are mainly used to see various trends in variables over a specific period of time. Matplotlib has a built-in function to create stack plots called stackplot().
