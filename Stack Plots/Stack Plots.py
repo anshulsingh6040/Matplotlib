@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
-#plt.style.available
+#plt.style.available --to see all available styles
 
 
 # In[2]:
